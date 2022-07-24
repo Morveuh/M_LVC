@@ -1,3 +1,20 @@
+--[[LEAKS BY NDDEV
+
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+https://discord.gg/j6EdzeuBNn
+
+LEAKS BY NDDEV]]
+
 RequestScriptAudioBank("DLC_WMSIRENS\\SIRENPACK_ONE", false)
 
 local count_bcast_timer = 0
