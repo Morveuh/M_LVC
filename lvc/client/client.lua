@@ -1,19 +1,4 @@
---[[LEAKS BY NDDEV
-
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-https://discord.gg/j6EdzeuBNn
-
-LEAKS BY NDDEV]]
+print("ND DEV C'est de la merde ;)")
 
 RequestScriptAudioBank("DLC_WMSIRENS\\SIRENPACK_ONE", false)
 
