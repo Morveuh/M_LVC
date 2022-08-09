@@ -1,4 +1,4 @@
-print("ND DEV C'est de la merde ;)")
+print("ZYP - https://discord.gg/yWYZVnTB4x")
 
 RequestScriptAudioBank("DLC_WMSIRENS\\SIRENPACK_ONE", false)
 
